@@ -22,7 +22,7 @@ Ik heb de website getest van de manege (paardrijden) waar ik rijd. Op de website
 
 **Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie.**
 
-De lighthouse testresultaat was 67% dus dat is niet slecht, maar het kan wel beter. Er waren best wel wat problemen die makkelijk op te lossen zijn. Maar er waren ook wel wwat Passed audits dus de website is wel toegankelijk. De screenreader test was prima, maar het las alleen de teksten goed voor met een engels accent. De foto's heeft die niet kunnen lezen dus voor iemand die niet goed kan zien of blind is, dan kun je de foto's niet zien zeg maar.
+De lighthouse testresultaat was 67% dus dat is niet slecht, maar het kan wel beter. Er waren best wel wat problemen die makkelijk op te lossen zijn. Maar er waren ook wel wat Passed audits dus de website is wel toegankelijk. De screenreader test was prima, maar het las alleen de teksten goed. De foto's met een alt kan die lezen en de foto's in de footer kan die niet lezen, omdat ze geen alt hebben.
 
 
 **Bekijk hier de volledige documentatie:**
